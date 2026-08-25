@@ -6,11 +6,9 @@ layout: compress
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
-
 <head>
     {% include head.html %}
 </head>
-
 <body>
     {% include nav.html %}
 
@@ -19,14 +17,10 @@ layout: compress
         <div class="container animated fadeIn">
             <div class="row">
 
-                <!-- Profile image -->
                 <a href="{{ site.url }}">
-                    <img src="{{ site.logo }}"
-                         class="img-circle zoombtn animated fadeIn"
-                         alt="{{ site.title }}">
+                    <img src="{{ site.logo }}" class="img-circle zoombtn animated fadeIn">
                 </a>
 
-                <!-- Name -->
                 <h3 class="title">
                     <a class="zoombtn" href="{{ site.url }}">
                         <p style="font-size:1.2rem;font-weight:300">
@@ -37,25 +31,28 @@ layout: compress
 
                 <hr class="hr-line">
 
-                <!-- Professional description -->
-                <div class="title">
+                <h3 class="title">
+                    <a href="{{ site.url }}">
+                        <p style="font-size:1rem;font-weight:300">
+                            {{ site.bio }}
+                        </p>
+                    </a>
+                </h3>
 
-                    <p style="font-size:1rem;font-weight:300">
-                        {{ site.bio }}
-                    </p>
+                <p style="font-size:0.85rem;font-weight:300">
+                    Plant disease resistance · Genomics · Computer vision · High-throughput phenotyping
+                </p>
 
-                    <p style="font-size:0.85rem;font-weight:300">
-                        Plant disease resistance · Genomics · Computer vision · High-throughput phenotyping
-                    </p>
+                <p style="font-size:0.8rem;font-weight:300">
+                    Postdoctoral Associate at Cornell AgriTech (BTI / USDA-GGRU)
+                </p>
 
-                    <p style="font-size:0.8rem;font-weight:300">
-                        Postdoctoral Associate at Cornell AgriTech (BTI / USDA-GGRU)
-                    </p>
+                {% include social-links.html %}
 
-                </div>
+                <hr class="hr-line">
 
-                <!-- Navigation buttons -->
-                <div>
+                <h3 class="title">
+
                     <a class="btn zoombtn" href="{{ site.url }}/about">
                         About
                     </a>
@@ -71,7 +68,8 @@ layout: compress
                     <a class="btn zoombtn" href="{{ site.url }}/publications">
                         Publications
                     </a>
-                </div>
+
+                </h3>
 
             </div>
         </div>
