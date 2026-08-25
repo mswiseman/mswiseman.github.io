@@ -1,14 +1,8 @@
 # Site
-title:              Michele Wiseman
-bio:                'PhD Student'
-description:        "A passion for science and discovery."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/meingh.jpg'
-background:         'assets/img/vadim-gromov-8XFcmzA4WO8-unsplash.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://mswiseman.github.io
+# Site
+title: Michele Wiseman, MSc PhD
+bio: 'Plant Pathologist | Computational Biologist'
+description: "Plant disease resistance, genomics, computer vision, and high-throughput phenotyping."
 
 # Jekyll
 permalink:          /:title/
@@ -37,8 +31,8 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              michele.wiseman@oregonstate.edu
-twitter:            mswiseman
+email:              msw287@cornell.edu
+#twitter:            mswiseman
 #facebook:           username
 github-url:         mswiseman
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
