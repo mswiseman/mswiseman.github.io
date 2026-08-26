@@ -45,7 +45,9 @@ layout: compress
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
+        {% if page.tags contains 'Tableau' %}
         <!--tableau-->
         <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+        {% endif %}
 </body>
 </html>

@@ -1,7 +1,6 @@
 # Site navigation links
-
-- title: About
-  url: /about/
+# Note: "About" and "Posts" already have dedicated entries in _includes/nav.html,
+# so they're intentionally left out here to avoid duplicate menu items.
 
 - title: Research
   url: /research/
@@ -14,6 +13,3 @@
 
 #- title: CV
 #  url: /cv/
-
-- title: Posts
-  url: /posts/

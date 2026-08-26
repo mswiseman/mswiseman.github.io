@@ -1,8 +1,9 @@
 # Site
-# Site
 title: Michele Wiseman, MSc PhD
+url:                https://mswiseman.github.io
 bio: 'Plant Pathologist | Computational Biologist'
 description: "Plant disease resistance, genomics, computer vision, and high-throughput phenotyping."
+logo:               assets/img/logo.png
 
 # Jekyll
 permalink:          /:title/

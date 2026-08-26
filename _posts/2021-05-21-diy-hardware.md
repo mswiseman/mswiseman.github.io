@@ -5,7 +5,7 @@ excerpt: "Resources to inspire creative problem solving"
 project: true
 feature: https://hackster.imgix.net/uploads/attachments/930989/pmp-ph-wiring-diagram_kIYhbdsmNg.png
 date: 2022-03-15
-tag:
+tags:
 - DIY 
 - maker
 - hardware
@@ -315,7 +315,7 @@ Available help for your environmental sensing projects as well as access to 3d p
 ## Contact?  
 [Back to top](#resources)
 
-Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. Follow my open liquid handler and modular PCR system build [here](https://mswiseman.github.io/gentlabottobot/). 
+Feel free to [email me](mailto:msw287@cornell.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. Follow my open liquid handler and modular PCR system build [here](https://mswiseman.github.io/gentlabottobot/). 
 
 ---
 
