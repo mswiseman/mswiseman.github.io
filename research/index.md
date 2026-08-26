@@ -65,11 +65,9 @@ I also develop tools that make experimental and computational workflows more eff
 
 These projects have included:
 
-- automated microscopy,
-- modular liquid handling,
-- DIY laboratory hardware,
-- computer-vision pipelines,
-- genomic analysis workflows, and
-- high-performance computing pipelines.
+- high-throughput, massively parallel computer vision and omic pipelines
+- specialized multi-agent and multimodal AI systems to tackle complex biological tasks
+- automated IoT sensor devices
+- high-performance computing pipelines
 
 Whenever possible, I favor reusable and open approaches that allow methods to be adapted to new biological questions.
