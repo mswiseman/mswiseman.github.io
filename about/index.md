@@ -20,7 +20,7 @@ I am a plant pathologist and computational biologist interested in understanding
 
 My research combines **plant pathology, genomics, gene editing, bioinformatics, and computer vision**. Much of my work focuses on powdery mildew pathosystems and on understanding how variation in host susceptibility and resistance genes can be used to develop more durable disease resistance.
 
-I am currently a Postdoctoral Associate at Cornell Agritech, working with researchers in the USDA-ARS grape genetics unit, where my work focuses on engineering disease resistance, designing and improving computer vision workflows, and subsequent quantitative analyses of data from the high-throughput phenotyping.
+I am currently a Postdoctoral Associate at Cornell Agritech, working with researchers in the [USDA-ARS Grape Genetics Research Unit](https://www.ars.usda.gov/northeast-area/geneva-ny/grape-genetics-research-unit-ggru/), where my work focuses on engineering disease resistance, designing and improving computer vision workflows, and subsequent quantitative analyses of data from the high-throughput phenotyping.
 
 ## Current Research
 
