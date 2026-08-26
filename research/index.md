@@ -43,13 +43,11 @@ My current work focuses on automated phenotyping of grapevine nursery population
 
 Previous projects have included:
 
-- automated microscopic quantification of powdery mildew,
-- computer-vision detection of two-spotted spider mite life stages,
-- robotic image acquisition,
-- disease-severity estimation, and
-- scalable image-processing pipelines.
+- automated microscopic quantification of powdery and downy mildew
+- computer-vision detection of two-spotted spider mite life stages
+- automated fungicide, miticide, and antibiosis efficacy assessment
 
-My broader interest is in combining imaging, spatial information, machine learning, and experimental metadata to make plant phenotyping more objective and scalable.
+My broader research interest is in integrating genetic data with imaging, spatial information, machine learning, and experimental metadata to uncover genetic insights and make plant phenotyping more objective, scalable, and quantitative.
 
 ## Genome Editing and Functional Validation
 
